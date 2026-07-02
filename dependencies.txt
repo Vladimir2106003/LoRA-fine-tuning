@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+peft
+accelerate
+bitsandbytes
+evaluate
+pandas
+numpy
+ipywidgets
+rouge_score
